@@ -1,0 +1,27 @@
+* {
+    color: black;
+}
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #207fb6;
+    color: rgb(19, 16, 16);
+    font-size: 60px;
+  }
+   
+  }
+.main {
+     
+        width: 300px;
+        height: 100px;
+        border: 1px solid blue;
+    color:gray;
+    background-color: blue;
+    width: 115px;}
+
+    .footer {
+        padding: 60px;
+        text-align: center;
+        background: #207fb6;
+        color: rgb(19, 16, 16);
+        font-size: 60px; }
